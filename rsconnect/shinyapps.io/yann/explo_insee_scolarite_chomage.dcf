@@ -1,0 +1,13 @@
+name: explo_insee_scolarite_chomage
+title: explo_insee_scolarite_chomage
+username:
+account: yann
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4203276
+bundleId: 4688804
+url: https://yann.shinyapps.io/explo_insee_scolarite_chomage/
+when: 1623087380.97786
+lastSyncTime: 1623087380.97786
+asMultiple: FALSE
+asStatic: FALSE

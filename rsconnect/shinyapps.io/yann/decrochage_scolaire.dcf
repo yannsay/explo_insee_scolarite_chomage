@@ -1,0 +1,14 @@
+name: decrochage_scolaire
+title: decrochage_scolaire
+username:
+account: yann
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4130605
+bundleId: 4604492
+url: https://yann.shinyapps.io/decrochage_scolaire/
+when: 1621191577.47323
+lastSyncTime: 1621191577.47323
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: dashtest.R
